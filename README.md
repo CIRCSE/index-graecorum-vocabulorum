@@ -6,11 +6,12 @@ Manually cleaned OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient G
 - Dirty OCR of the _Index_: [indexgraecorvmvo00saal/indexgraecorvmvo00saal_djvu.txt](https://ia800300.us.archive.org/35/items/indexgraecorvmvo00saal/indexgraecorvmvo00saal_djvu.txt) 
 - PDF of the extended edition of the _Index_, published in 1884: [tensaurusitalogr00saal/page/n3/mode/2up](https://archive.org/details/tensaurusitalogr00saal/page/n3/mode/2up)
 
-<!--File structure-->
+<!--File structure: LiLa ID, Latin lemma, Ancient Greek lemma, WR, LV, CITE URN LSJ-->
+<!--Cite URN: https://raw.githubusercontent.com/Eumaeus/cite_lsj_cex/master/lsj_index.txt-->
 
 ### Credits
 
 - **Creators**: Greta Franzini, Federica Zampedri, Marco Passarotti
 - **Contributors**: Francesco Mambrini, Giovanni Moretti
 
-<!--Citation-->
+<!--Citation+DOI-->
