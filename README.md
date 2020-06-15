@@ -7,7 +7,17 @@ Manually cleaned OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient G
 - PDF of the extended edition of the _Index_, published in 1884: [tensaurusitalogr00saal/page/n3/mode/2up](https://archive.org/details/tensaurusitalogr00saal/page/n3/mode/2up)
 
 <!--File structure: LiLa ID, Latin lemma, Ancient Greek lemma, WR, LV, CITE URN LSJ-->
-<!--Cite URN: https://raw.githubusercontent.com/Eumaeus/cite_lsj_cex/master/lsj_index.txt-->
+
+<!--### File structure
+1. LiLa ID
+2. Latin lemma, as recorded in the _Index_
+3. Ancient Greek lemmas, as recorded in the _Index_, separated into
+  4. Written representations (i.e. graphical variants);
+  5. Lemma variants ();
+  6. Compounds;
+7. LSJ CITE URN: https://raw.githubusercontent.com/Eumaeus/cite_lsj_cex/master/lsj_index.txt
+8. Uncertainty? REMOVE?
+-->
 
 ### Credits
 
@@ -15,6 +25,8 @@ Manually cleaned OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient G
 - **Contributors**: Francesco Mambrini, Giovanni Moretti
 
 <!--### Citation-->
+<!--To cite this data-set, you can adapt the following:-->
+
 
 ### Copyright
 
