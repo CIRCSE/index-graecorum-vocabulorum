@@ -6,18 +6,17 @@ Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient
 - Dirty OCR of the _Index_: [indexgraecorvmvo00saal/indexgraecorvmvo00saal_djvu.txt](https://ia800300.us.archive.org/35/items/indexgraecorvmvo00saal/indexgraecorvmvo00saal_djvu.txt) 
 - PDF of the extended edition of the _Index_, published in 1884: [tensaurusitalogr00saal/page/n3/mode/2up](https://archive.org/details/tensaurusitalogr00saal/page/n3/mode/2up)
 
-<!--File structure: LiLa ID, Latin lemma, Ancient Greek lemma, WR, LV, CITE URN LSJ-->
+### File structure
+Columns:
 
-<!--### File structure
 1. LiLa ID
 2. Latin lemma, as recorded in the _Index_
-3. Ancient Greek lemmas, as recorded in the _Index_, separated into
-  4. Written representations (i.e. graphical variants);
-  5. Lemma variants ();
-  6. Compounds;
-7. LSJ CITE URN: https://raw.githubusercontent.com/Eumaeus/cite_lsj_cex/master/lsj_index.txt
-8. Uncertainty? REMOVE?
--->
+3. Ancient Greek lemmas, as recorded in the _Index_:
+  4. `uncertain` indicates editorial uncertainty
+  5. `written representations`, i.e. graphical variants of the same lemma
+  6. `lemma variants`, alternative lemmas
+  7. `compounds` 
+<!--8. LSJ CITE URN: https://raw.githubusercontent.com/Eumaeus/cite_lsj_cex/master/lsj_index.txt-->
 
 ### Credits
 
