@@ -7,7 +7,8 @@ Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient
 - PDF of the extended edition of the _Index_, published in 1884: [tensaurusitalogr00saal/page/n3/mode/2up](https://archive.org/details/tensaurusitalogr00saal/page/n3/mode/2up)
 
 ### File structure
-Columns:
+
+#### `igvll.txt`
 
 1. LiLa ID
 2. Latin lemma, as recorded in the _Index_
