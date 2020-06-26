@@ -67,9 +67,9 @@ Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient
 ```
 <http://lila-erc.eu/data/lexicalResources/IGVLL/id/etymon/4>
     a                      lemonEty:Etymon ;
-    rdfs:label             "k'upeiron" ;
+    rdfs:label             "κύπειρον" ;
     lime:language          "grc" ;
-    ontolex:canonicalForm  [ ontolex:writtenRep "\textgreek{k'upeiron}" ] ;
+    ontolex:canonicalForm  [ ontolex:writtenRep "κύπειρον" ] ;
     skos:exactMatch  <urn:cite2:hmt:lsj.chicago_md:n60988> ;
     lemonEty:cognate      <http://lila-erc.eu/.../IGVLL/id/etymon/5> .
 ```
@@ -79,9 +79,9 @@ Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient
 ```
 <http://lila-erc.eu/data/lexicalResources/IGVLL/id/etymon/5>
     a                      lemonEty:Etymon, lemonEty:Cognate ;
-    rdfs:label             "\textgreek{k'upeiros}" ;
+    rdfs:label             "κύπειρος" ;
     lime:language          "grc" ;
-    ontolex:canonicalForm  [ ontolex:writtenRep "\textgreek{k'upeiros}" ] ;
+    ontolex:canonicalForm  [ ontolex:writtenRep "κύπειρος" ] ;
     skos:exactMatch  <urn:cite2:hmt:lsj.chicago_md:n91854> .
 ```
 -->
