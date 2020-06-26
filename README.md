@@ -12,10 +12,10 @@ Columns:
 1. LiLa ID
 2. Latin lemma, as recorded in the _Index_
 3. Ancient Greek lemmas, as recorded in the _Index_:
-  4. `uncertain` indicates editorial uncertainty
-  5. `written representations`, i.e. graphical variants of the same lemma
-  6. `lemma variants`, alternative lemmas
-  7. `compounds` 
+   - `uncertain` indicates editorial uncertainty
+   - `written representations`, i.e. graphical variants of the same lemma
+   - `lemma variants`, alternative lemmas
+   - `compounds` 
 <!--8. LSJ CITE URN: https://raw.githubusercontent.com/Eumaeus/cite_lsj_cex/master/lsj_index.txt-->
 
 ### Credits
