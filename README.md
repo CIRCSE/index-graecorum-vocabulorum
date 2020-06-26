@@ -1,6 +1,6 @@
 # Index Graecorum Vocabulorum in Linguam Latinam	
 
-Manually cleaned OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient Greek (1874). This work was carried out as part of an internship at the [CIRCSE Research Centre](https://centridiricerca.unicatt.it/circse_index.html) in Milan, Italy, in the context of the [_LiLa: Linking Latin_](https://lila-erc.eu/) project.
+Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient Greek (1874). This work was carried out as part of an internship at the [CIRCSE Research Centre](https://centridiricerca.unicatt.it/circse_index.html) in Milan, Italy, in the context of the [_LiLa: Linking Latin_](https://lila-erc.eu/) project.
 
 - PDF of the _Index_: [indexgraecorvmvo00saal/page/n7/mode/2up](https://archive.org/details/indexgraecorvmvo00saal/page/n7/mode/2up)
 - Dirty OCR of the _Index_: [indexgraecorvmvo00saal/indexgraecorvmvo00saal_djvu.txt](https://ia800300.us.archive.org/35/items/indexgraecorvmvo00saal/indexgraecorvmvo00saal_djvu.txt) 
@@ -26,6 +26,7 @@ Manually cleaned OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient G
 
 <!--### Citation-->
 <!--To cite this data-set, you can adapt the following:-->
+<!--Franzini, G., Zampedri, F., Passarotti, M. (2020) <em>Index Graecorum Vocabulorum in Linguam Latinam: Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient Greek (1874), mapped to the</em> LiLa: Linking Latin <em>lemma bank and the</em> Liddell-Scott Jones CITE Application. DOI: doi here-->
 
 
 ### Copyright
