@@ -123,6 +123,11 @@ Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient
 - **Creators**: Greta Franzini, Federica Zampedri, Marco Passarotti
 - **Contributors**: Francesco Mambrini, Giovanni Moretti
 
+## Citation
+
+[![DOI](https://zenodo.org/badge/271791451.svg)](https://zenodo.org/badge/latestdoi/271791451)
+
+
 <!--### Citation-->
 <!--To cite this data-set, you can adapt the following:-->
 <!--Franzini, G., Zampedri, F., Passarotti, M. (2020) <em>Index Graecorum Vocabulorum in Linguam Latinam: Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient Greek (1874), mapped to the</em> LiLa: Linking Latin <em>lemma bank and the</em> Liddell-Scott Jones CITE Application. DOI: doi here-->
