@@ -13,8 +13,8 @@ Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient
 3. `lemma_greek`, as recorded in the _Index_:
    - `certainty` indicates editorial uncertainty
    - `written_representation`, i.e. graphical variants of the same lemma
-   - `lemma_variant`, alternative lemmas
-   - `compound` 
+   - `lemma_variant`, i.e. alternative lemmas
+   - `compound`, i.e. compound lemmas
 <!--8. `lsj_cite_urn` LSJ CITE URN: https://raw.githubusercontent.com/Eumaeus/cite_lsj_cex/master/lsj_index.txt-->
 
 <!-- ## Ontology examples
