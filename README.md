@@ -123,6 +123,8 @@ Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient
 - **Creators**: Greta Franzini, Federica Zampedri, Marco Passarotti
 - **Contributors**: Francesco Mambrini, Giovanni Moretti
 
+The _LiLa: Linking Latin_ project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
+
 ## Citation
 
 [![DOI](https://zenodo.org/badge/271791451.svg)](https://zenodo.org/badge/latestdoi/271791451)
