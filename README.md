@@ -15,7 +15,7 @@ Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient
    - `written_representation`, i.e. graphical variants of the same lemma
    - `lemma_variant`, i.e. alternative lemmas
    - `compound`, i.e. compound lemmas
-<!--8. `lsj_cite_urn` LSJ CITE URN: https://raw.githubusercontent.com/Eumaeus/cite_lsj_cex/master/lsj_index.txt-->
+<!--4. `lsj_exactMatch,lsj_broadMatch,lsj_relatedMatch`, where available. If empty, no LSJ CITE URN available. LSJ CITE URN: https://raw.githubusercontent.com/Eumaeus/cite_lsj_cex/master/lsj_index.txt-->
 
 <!-- ## Ontology examples
 
