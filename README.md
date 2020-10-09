@@ -6,18 +6,20 @@ Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient
 - Dirty OCR of the _Index_: [indexgraecorvmvo00saal/indexgraecorvmvo00saal_djvu.txt](https://ia800300.us.archive.org/35/items/indexgraecorvmvo00saal/indexgraecorvmvo00saal_djvu.txt) 
 - PDF of the extended edition of the _Index_, published in 1884: [tensaurusitalogr00saal/page/n3/mode/2up](https://archive.org/details/tensaurusitalogr00saal/page/n3/mode/2up)
 
-## `igvll.txt` file structure
+## `IGVLL.csv` file
 
 1. `lila_id`
 2. `lemma_latin`, as recorded in the _Index_
 3. `lemma_greek`, as recorded in the _Index_:
-   - `certainty` indicates editorial uncertainty
-   - `written_representation`, i.e. graphical variants of the same lemma
-   - `lemma_variant`, i.e. alternative lemmas
-   - `compound`, i.e. compound lemmas
-<!--4. `lsj_exactMatch,lsj_broadMatch,lsj_relatedMatch`, where available. If empty, no LSJ CITE URN available. LSJ CITE URN: https://raw.githubusercontent.com/Eumaeus/cite_lsj_cex/master/lsj_index.txt-->
+4. `certainty` indicates editorial uncertainty on Greek provenance
+5. `written_representation`, i.e. graphical variants of the Greek lemma(s)
+6. `lemma_variant`, i.e. alternative Greek lemma(s)
+7. `compound`, i.e. compound Greek lemmas
+8. `lsj_exactMatch`: where available, URN of the corresponding Ancient Greek lemma in the [LSJ CITE APP](https://raw.githubusercontent.com/Eumaeus/cite_lsj_cex/master/lsj_index.txt)
+9. `lsj_broadMatch`: where available, URN of the near exact match in the LSJ CITE APP 	(e.g. φυσική vs. φυσικός)
+<!--10. `lsj_relatedMatch`: where available, URN of a related match in the LSJ CITE APP (e.g. "see also lemma X")-->
 
-<!-- ## Ontology examples
+<!-- ## `IGVLL.TTL` file
 
 <!--#### Lexical Entry (Latin)
 ```
