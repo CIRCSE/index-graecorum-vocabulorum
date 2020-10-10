@@ -16,8 +16,8 @@ Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient
 6. `lemma_variant`, i.e. alternative Greek lemma(s)
 7. `compound`, i.e. compound Greek lemmas
 8. `lsj_exactMatch`: where available, URN of the corresponding Ancient Greek lemma in the [LSJ CITE APP](https://raw.githubusercontent.com/Eumaeus/cite_lsj_cex/master/lsj_index.txt)
-9. `lsj_broadMatch`: failing an `lsj_exactMatch`, where available, the URN of the nearest match in the LSJ CITE APP (e.g. φυσική vs. φυσικός)
-10. `lsj_relatedMatch`: failing an `lsj_exactMatch` and an `lsj_broadMatch,` where available, the URN of a related lemma in the LSJ CITE APP (e.g. ἐντεροκηλικός vs. ἐντεροκήλη)
+9. `lsj_broadMatch`: failing an `lsj_exactMatch` and where available, the URN of the nearest match in the LSJ CITE APP (e.g. φυσική vs. φυσικός)
+10. `lsj_relatedMatch`: failing an `lsj_exactMatch` and an `lsj_broadMatch` and where available, the URN of a related lemma in the LSJ CITE APP (e.g. ἐντεροκηλικός vs. ἐντεροκήλη)
 
 ## `IGVLL.ttl` Turtle file
 
