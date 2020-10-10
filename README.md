@@ -49,6 +49,8 @@ Manually-corrected OCR of G.A. Saalfeld's list of 1,763 Latin loans from Ancient
   <http://www.w3.org/2000/01/rdf-schema#label> "Etymology Link" .
 ```
 
+LodView [HERE](https://lila-erc.eu/data/id/lemma/86829) and LodLive [HERE](https://lila-erc.eu/lodlive/app_en.html?http://lila-erc.eu/data/id/lemma/86829).
+
 
 ## Credits
 
