@@ -75,4 +75,4 @@ The _LiLa: Linking Latin_ project has received funding from the European Researc
 
 [![DOI](https://zenodo.org/badge/271791451.svg)](https://zenodo.org/badge/latestdoi/271791451)
 
-This resource is also available in the ILC4CLARIN repository of CLARIN-IT: [http://hdl.handle.net/20.500.11752/OPEN-528](http://hdl.handle.net/20.500.11752/OPEN-528)
+This resource is also available in the ILC4CLARIN repository of CLARIN-IT: [http://hdl.handle.net/20.500.11752/OPEN-528](http://hdl.handle.net/20.500.11752/OPEN-528).
