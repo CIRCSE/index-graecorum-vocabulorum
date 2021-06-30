@@ -38379,7 +38379,7 @@ igvll:Lexicon lime:entry <http://lila-erc.eu/data/lexicalResources/IGVLL/id/Lexi
 <http://lila-erc.eu/data/lexicalResources/IGVLL/id/LexicalEntry/strix> a ontolex:LexicalEntry;
   lemonEty:etymology <http://lila-erc.eu/data/lexicalResources/IGVLL/id/etymology/1664>;
   <http://www.w3.org/2000/01/rdf-schema#label> "strix";
-  ontolex:canonicalForm <http://lila-erc.eu/data/id/lemma/127317> .
+  ontolex:canonicalForm <http://lila-erc.eu/data/id/lemma/125844> .
 
 <http://lila-erc.eu/data/lexicalResources/IGVLL/id/etymon/1664> a lemonEty:Etymon;
   <http://www.w3.org/2000/01/rdf-schema#label> "στρίγξ";
